@@ -1,7 +1,7 @@
-book: pro-test
-database: 
-  alias: testdb
-  driver-url: jdbc:oracle:thin:@localhost:1521:testdb
-  driver-class: oracle.jdbc.driver.OracleDriver
-  username: test
-  password: test
+book: jason(project)
+#database:  
+#  alias: testdb
+#  driver-url: jdbc:oracle:thin:@localhost:1521:testdb
+#  driver-class: oracle.jdbc.driver.OracleDriver
+#  username: test
+#  password: test
